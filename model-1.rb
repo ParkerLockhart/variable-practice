@@ -13,3 +13,7 @@ primitive_camp_available = true
 required_gear = ["med pack", "breathing apparatus", "traps", "lantern", "matter manipulator", "phasor", "cloaking device"]
 checkpoints = ["1", "2", "3", "4"]
 teams = ["red", "blue", "green", "yellow"]
+
+competitor_1 = { name: "Treni", home_planet: "Jrak", new_registration: "false", team: "red"}
+competitor_2 = {name: "Senibram", home_planet: "Narquesnor", new_registration: "true", team: "blue"}
+competitor_3 = {name: "Frusthek", home_planet: "Uhesh", new_registration: "false", team: "green"} 
